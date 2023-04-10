@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Montserrat|Permanent+Marker|Raleway|Roboto|Oxygen&display=swap');
+
+.HeaderClass{
+  font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron-landing{
+  background-image: url('./images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg');
+  height: 100vh;
+  background-size: cover;
+}
